@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>制品库</title>
+    <g id="应急部管理员视角" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="管理员工作台-制品库" transform="translate(-312.000000, -225.000000)" fill-rule="nonzero">
+            <g id="编组-5" transform="translate(312.000000, 163.000000)">
+                <g id="编组" transform="translate(0.000000, 61.000000)">
+                    <g id="制品库" transform="translate(0.000000, 1.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8.06005859,1 L2,4.5 L2,11.5 L8.06176758,15 L14.1235352,11.5 L14.1235352,4.5 L8.06005859,1 Z M12.5974121,4.76489258 L8.01733398,7.16772461 L3.51757812,4.76831055 L8.06176758,2.14501953 L12.5974121,4.76489258 Z M2.99121094,5.61254883 L7.5234375,8.02905273 L7.55932617,13.5644531 L2.99121094,10.9257812 L2.99121094,5.61254883 Z M8.55053711,13.5695801 L8.51464844,8.02905273 L13.1306152,5.60742188 L13.1306152,10.9274902 L8.55053711,13.5695801 L8.55053711,13.5695801 Z" id="形状" fill="#8A8A8A"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
